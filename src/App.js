@@ -1,8 +1,15 @@
 
 function App() {
   return (
-    <div className="App">
-      <h1>TESTE PROJETO</h1>
+    <div className="container">
+      <h1 className="title">Buscador de CEP</h1>
+
+      <div className="containerinput">
+        <input
+          type="text"
+          placeholder="Digite seu cep..."
+        />
+      </div>
     </div>
   );
 }
