@@ -72,3 +72,8 @@
     margin: 16px;
     font-size: 39px;
 }
+
+.main span{
+    margin-bottom: 16px;
+    font-weight: bold;
+}
