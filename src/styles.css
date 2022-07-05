@@ -67,3 +67,8 @@
     width: 500px;
     border-radius: 8px;
 }
+
+.main h2{
+    margin: 16px;
+    font-size: 39px;
+}
